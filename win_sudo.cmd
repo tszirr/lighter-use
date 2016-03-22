@@ -1,0 +1,1 @@
+runas /env /noprofile /user:administrator "%*"
