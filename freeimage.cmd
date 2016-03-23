@@ -1,4 +1,4 @@
 pushd ..
-git submodule add --name FreeImage https://github.com/tszirr/freeimage add/external/FreeImage
-git config --file .gitmodules submodule.FreeImage.ignore dirty
+git submodule add --name freeimage https://github.com/tszirr/freeimage add/external/freeimage
+git config --file .gitmodules submodule.freeimage.ignore dirty
 popd
